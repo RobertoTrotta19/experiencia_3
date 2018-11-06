@@ -22,6 +22,7 @@
 ul.navbar{
 	background-color: gray;
 	height: 50px;
+	margin: 0
 
 }
 
@@ -34,4 +35,7 @@ ul.navbar li {
 	padding: 18px;
 	display: inline-block;
 	
+}
+body {
+	margin: 0
 }
