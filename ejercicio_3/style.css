@@ -1,0 +1,126 @@
+html, body{
+	margin: 0;
+}
+
+.bordee{
+	height: 350px;
+	width: 500px;
+	display: inline-block;
+	float: left;
+}
+
+.españa{
+	background-color: red;
+	height: 300px;
+	width: 500px;
+}
+
+
+.tituloe{
+	text-align: center;
+	font-family: arial, times new roman;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.borded{
+	height: 350px;
+	width: 500px;
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+}
+.amarillo{
+	background-color: yellow;
+	height: 140px;
+	width: 500px;
+	float: left;
+	margin-top: 80px;
+	z-index: 1;
+	position: absolute;
+}
+
+.dinamarca{
+	background-color: red;
+	height: 300px;
+	width: 500px;
+	float: left;
+	display: inline-block;
+	
+	
+}
+
+.white{
+	background-color: white;
+	height: 40px;
+	width: 500px;
+	float: left;
+	margin-top: 125px;
+	z-index: 1
+}
+
+.blanco{
+	background-color: white;
+	height: 300px;
+	width: 40px;
+	float: left;
+	z-index: 1;
+	margin-left: 120px;
+	position: absolute;
+}
+
+.titulod{
+	text-align: center;
+	font-family: arial, times new roman;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    height: 37px;
+    display: inline-block;
+    width: 500px;
+}
+
+.bordea{
+	height: 350px;
+	width: 500px;
+	display: inline-block;
+	float: left;
+	
+}
+
+.emiratos{
+	background-color: white;
+	height: 300px;
+	width: 500px;
+	position: relative;
+}
+
+.tituloa{
+	text-align: center;
+	font-family: arial, times new roman;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.emirojo{
+	background-color: red;
+	height: 300px;
+	width: 100px;
+	float: left;
+	}
+
+.verde{
+	background-color: green;
+	height: 100px;
+	width: 400px;
+	float: left;
+}
+
+.negro{
+	background-color: black;
+	height: 100px;
+	width: 400px;
+	float: left;
+	margin-top: 100px;
+
+}
